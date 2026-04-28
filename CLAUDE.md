@@ -41,7 +41,7 @@ Creative director, tech-enthusiast, educator. Positioning: **helping teams and c
 ### Side projects
 
 - **Промпти / Prompty Trainer** — [supalab.ai/prompty](https://supalab.ai/prompty). Prompt-training simulator for large teams.
-- **PLAI Cube** — [plaicube.ai](https://plaicube.ai). AI toy in development.
+- **PLAI Cube** — [plaicube.ai](https://plaicube.ai). Educational vibecoding device for kids.
 
 ### Contact
 
